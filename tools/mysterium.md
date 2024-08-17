@@ -5,16 +5,16 @@ parent: Tools
 
 # Mysterium Park Layout Generator
 
-<!-- <style>
-    .mysterium tr {width: 200px; height:20px;}
-    /* .mysterium table {border-width: 1px;} */
+<style>
+    .mysterium td {width: 2.5em; height: 1.5em; text-align: center;}
+    .mysterium table {border-collapse: separate; border-spacing: 5px;}
+</style>
 
-</style> -->
-
+<center>
 <div id="mysteriumTable" class="mysterium">
     <!-- The table will be populated by JavaScript -->
 </div>
-
+</center>
 
 This generates a random 3x3 layout for the ghost. 
 Purple here represents the pink player, since there isn't a pink circle emoji.
