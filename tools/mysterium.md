@@ -6,7 +6,7 @@ parent: Tools
 # Mysterium Park Layout Generator
 
 <style>
-    .mysterium td {width: 2.5em; height: 1.5em; text-align: center;}
+    .mysterium td {width: 3em; min-height: 2em; text-align: center;}
     .mysterium table {border-collapse: separate; border-spacing: 5px;}
 </style>
 
