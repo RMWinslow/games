@@ -20,6 +20,9 @@ suitable for playing when everyone has their own smartphone or tablet on hand.
 [See this pdf for a more exhaustive list](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view),
 though many of the links therein are non-functional.
 
+See also:
+- This [Numbers Trivia](https://numbers-trivia.vercel.app/) applet can be used for something like Wits and Wagers
+- [Liar's Dice Roller](https://kevan.org/games/liarsdice?size=150&dice=4)
 
 <!--
 - [Catan](https://colonist.io/)
