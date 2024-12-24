@@ -38,7 +38,7 @@ layout: post
 - Battleship: [EN](https://ktane.timwi.de/HTML/Battleship.html), [ZH](https://ktane.timwi.de/HTML/Battleship%20translated%20(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%20%E2%80%94%20%E6%88%98%E8%88%B0).html)
 - Adventure Game: [EN](https://ktane.timwi.de/HTML/Adventure%20Game.html), [Short](https://ktane.timwi.de/HTML/Adventure%20Game%20condensed%20(samfundev).html), [ZH](https://ktane.timwi.de/HTML/Adventure%20Game%20translated%20(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%20%E2%80%94%20%E6%8E%A2%E9%99%A9%E6%B8%B8%E6%88%8F).html)
 - Adjacent Letters: [EN](https://ktane.timwi.de/HTML/Adjacent%20Letters.html), [ZH](https://ktane.timwi.de/HTML/Adjacent%20Letters%20translated%20(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%20%E2%80%94%20%E7%9B%B8%E9%82%BB%E7%9A%84%E5%AD%97%E6%AF%8D).html)
-- Flags: [EN](https://ktane.timwi.de/HTML/Flags%20colored%20(JakkOfKlubs).html)
+- Flags: [EN](https://ktane.timwi.de/HTML/Flags.html)
 - Two Bits: [EN](https://ktane.timwi.de/HTML/Two%20Bits.html), [Alt](https://ktane.timwi.de/HTML/Two%20Bits%20optimized%20(Nanthelas).html)
 - egg: [EN](https://ktane.timwi.de/HTML/egg.html)
 
