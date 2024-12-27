@@ -11,14 +11,14 @@ layout: post
 ## Default Modules
 
 - Wires: [EN](https://bombmanual.com/web/index.html#Wires), [ZH](https://bombmanual.com/zh-CN/web/index.html#Wires)
-- TheButton: [EN](https://bombmanual.com/web/index.html#TheButton), [ZH](https://bombmanual.com/zh-CN/web/index.html#TheButton)\*
-- Keypads: [EN](https://bombmanual.com/web/index.html#Keypads), [ZH](https://bombmanual.com/zh-CN/web/index.html#Keypads)
-- SimonSays: [EN](https://bombmanual.com/web/index.html#SimonSays), [ZH](https://bombmanual.com/zh-CN/web/index.html#SimonSays)
-- WhosOnFirst: [EN](https://bombmanual.com/web/index.html#WhosOnFirst), [ZH](https://bombmanual.com/zh-CN/web/index.html#WhosOnFirst)\*
+- The Button: [EN](https://bombmanual.com/web/index.html#TheButton), [ZH](https://bombmanual.com/zh-CN/web/index.html#TheButton)\*
+- Keypads (Weird Symbols): [EN](https://bombmanual.com/web/index.html#Keypads), [ZH](https://bombmanual.com/zh-CN/web/index.html#Keypads)
+- Simon Says: [EN](https://bombmanual.com/web/index.html#SimonSays), [ZH](https://bombmanual.com/zh-CN/web/index.html#SimonSays)
+- Who's On First: [EN](https://bombmanual.com/web/index.html#WhosOnFirst), [ZH](https://bombmanual.com/zh-CN/web/index.html#WhosOnFirst)\*
 - Memory: [EN](https://bombmanual.com/web/index.html#Memory), [ZH](https://bombmanual.com/zh-CN/web/index.html#Memory)
-- MorseCode: [EN](https://bombmanual.com/web/index.html#MorseCode), [ZH](https://bombmanual.com/zh-CN/web/index.html#MorseCode)
-- ComplicatedWires: [EN](https://bombmanual.com/web/index.html#ComplicatedWires), [ZH](https://bombmanual.com/zh-CN/web/index.html#ComplicatedWires)
-- WireSequences: [EN](https://bombmanual.com/web/index.html#WireSequences), [ZH](https://bombmanual.com/zh-CN/web/index.html#WireSequences)
+- Morse Code: [EN](https://bombmanual.com/web/index.html#MorseCode), [ZH](https://bombmanual.com/zh-CN/web/index.html#MorseCode)
+- Complicated Wires: [EN](https://bombmanual.com/web/index.html#ComplicatedWires), [ZH](https://bombmanual.com/zh-CN/web/index.html#ComplicatedWires)
+- Wire Sequences: [EN](https://bombmanual.com/web/index.html#WireSequences), [ZH](https://bombmanual.com/zh-CN/web/index.html#WireSequences)
 - Mazes: [EN](https://bombmanual.com/web/index.html#Mazes), [ZH](https://bombmanual.com/zh-CN/web/index.html#Mazes)
 - Passwords: [EN](https://bombmanual.com/web/index.html#Passwords), [ZH](https://bombmanual.com/zh-CN/web/index.html#Passwords)
 
