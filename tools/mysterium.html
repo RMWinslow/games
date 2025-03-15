@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random Word Generator</title>
+</head>
+<body>
+
+
+
+<style>
+    .mysterium td {width: 2.5em; height: 1.5em; text-align: center; border:1px solid black;}
+    .mysterium table {border-collapse: separate; border-spacing: 5px;}
+
+</style>
+
+<div id="mysteriumTable" class="mysterium">
+    <!-- The table will be populated by JavaScript -->
+</div>
+
+
+
+<script>
+    //draw a random item from a list.
+    function rD(array){return array[Math.floor(Math.random()*array.length)];} 
+
+    //Fisher–Yates shuffle
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+
+    const markers = ["⚫","⚪","🔴","🟡","🟣","🔵"," "," "," "];
+    shuffledMarkers = shuffleArray(markers);
+    console.log(shuffledMarkers);
+
+
+    // populate table
+    table = document.createElement("table");
+    for (let i = 0; i < 3; i++) {
+        row = document.createElement("tr");
+        for (let j = 0; j < 3; j++) {
+            cell = document.createElement("td");
+            cell.textContent = markers[i * 3 + j];
+            row.appendChild(cell);
+        }
+        table.appendChild(row);
+    }
+    document.getElementById("mysteriumTable").appendChild(table);
+
+</script>
+
+
+</body>
+</html>
+
+
+
